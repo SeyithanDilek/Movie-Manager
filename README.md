@@ -1,4 +1,4 @@
-# Movie-Manager
+# Movie Manager Full Stack App
 Angular with SpringBoot
 
 ### Spring Framework:
