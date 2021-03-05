@@ -5,7 +5,7 @@ Angular with SpringBoot
   - Spring Boot
   - Spring Data Jpa
   - Mysql Driver
-  -Lombok
+  - Lombok
   ### Port
 ```
   http://localhost:8080
