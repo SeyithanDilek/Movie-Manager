@@ -14,7 +14,7 @@ Angular with SpringBoot
 ### Angular:
   - Html,CSS
   - JavaScript(Angular)
-  -Bootstrap
+  - Bootstrap
   ### Port
 ```
   http://localhost:4200
